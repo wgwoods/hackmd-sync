@@ -3,6 +3,8 @@
 Hello! This document is an attempt to document the basic Fedora / CentOS
 packager workflow and identify all the systems involved so we can figure out how to monitor the health of the overall system.
 
+[![hackmd-github-sync-badge](https://hackmd.io/ZEL0TgUZQySZjnHfSqzv_g/badge)](https://hackmd.io/ZEL0TgUZQySZjnHfSqzv_g)
+
 ## Overview, packager PoV
 
 Here's a step-by-step summary of what the Packager Workflow looks like, 
